@@ -3,7 +3,7 @@
 - My name is Jaxel Rojas 
 - Pronouns: he/him
 - Where: Born and raised in Puerto Rico
-- Working: At my day job I'm Technical Lead, Partner and Cofounder of [IITS](https://www.iitspr.com/), a Consulting Services Corporation that helps modernize and automate businesses around the island.
+- Working: _Coming soon_.
 - I’m currently learning all about: Rust, F# and Go
 - 🌱 I’m looking to collaborate on: any backend related projects
 - 💬 Ask me about: dotnet, sql server, git, http, apis
