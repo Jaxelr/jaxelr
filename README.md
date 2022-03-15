@@ -3,8 +3,9 @@
 - My name is Jaxel Rojas 
 - Pronouns: he/him
 - Where: Born and raised in Puerto Rico
-- Working: _Coming soon_.
-- I’m currently learning all about: Rust, F# and Go
+- Working: Microsoft.
+- Prev: Technical Lead at IITS.
+- 📚 I’m currently learning on my free time about: Rust, F# and Go
 - 🌱 I’m looking to collaborate on: any backend related projects
 - 💬 Ask me about: dotnet, sql server, git, http, apis
 - 📫 How to reach me: [Twitter](https://twitter.com/jaxelr) or [Linkedin](https://www.linkedin.com/in/jaxelr/)
