@@ -3,8 +3,8 @@
 - My name is Jaxel Rojas 
 - Pronouns: he/him
 - Where: Born and raised in Puerto Rico
-- Working: Microsoft.
-- Prev: Technical Lead at IITS.
+- Working: SwE @Microsoft.
+- Prev: Technical Lead @IITS.
 - 📚 I’m currently learning on my free time about: Rust, F# and Go
 - 🌱 I’m looking to collaborate on: any backend related projects
 - 💬 Ask me about: dotnet, sql server, git, http, apis
