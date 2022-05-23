@@ -6,8 +6,8 @@
 - Working: SwE @Microsoft.
 - Prev: Technical Lead @IITS.
 - 📚 I’m currently learning on my free time about: Rust, F# and Go
-- 🌱 I’m looking to collaborate on: any backend related projects
-- 💬 Ask me about: dotnet, sql server, git, http, apis
+- 🌱 I’m looking to collaborate on: any backend related projects and/or tools
+- 💬 Ask me about: dotnet, sql server, git, http, apis, azure
 - 📫 How to reach me: [Twitter](https://twitter.com/jaxelr) or [Linkedin](https://www.linkedin.com/in/jaxelr/)
 - ⚡ Fun fact: I'm a fan of vintage hardware, software and music.
 
