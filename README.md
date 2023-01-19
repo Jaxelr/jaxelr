@@ -13,8 +13,8 @@
 
 ### Github Stats
 
-![Jaxelr's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=jaxelr&show_icons=true&count_private=true&theme=tokyonight)
+![Jaxelr's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaxelr&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=jaxelr&theme=tokyonight)](https://github.com/jaxelr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaxelr&theme=tokyonight)](https://github.com/jaxelr/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaxelr&theme=tokyonight)](https://git.io/streak-stats)
