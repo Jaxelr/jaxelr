@@ -3,12 +3,12 @@
 - My name is Jaxel Rojas 
 - Pronouns: he/him
 - Where: Born and raised in Puerto Rico
-- Working: SwE @Microsoft.
+- Working: Senior Software Engineer @Microsoft.
 - Prev: Technical Lead @IITS.
 - 📚 I’m currently learning on my free time about: Rust, F# and Go
-- 🌱 I’m looking to collaborate on: any backend related projects and/or tools
+- 🌱 I’m looking to collaborate on: codesigning related projects and/or related field tools
 - 💬 Ask me about: dotnet, sql server, git, http, apis, azure
-- 📫 How to reach me: [Twitter](https://twitter.com/jaxelr) or [Linkedin](https://www.linkedin.com/in/jaxelr/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jaxelr/)
 - ⚡ Fun fact: I'm a fan of vintage hardware, software and music.
 
 ### Github Stats
